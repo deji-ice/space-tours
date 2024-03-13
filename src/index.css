@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-.bgDesktop{
+/* .bgDesktop{
   background-image: url("./assets/destination/background-destination-desktop.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -16,7 +16,7 @@
   background-image: url("./assets/destination/background-destination-mobile.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-}
+} */
 
 
 
@@ -133,5 +133,4 @@
   }
       
 
-
-
+  
