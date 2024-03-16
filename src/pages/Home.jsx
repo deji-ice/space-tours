@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const Home = () => {
   return (
     <div
-      className="bg-home-tablet flex flex-col md:bg-cover px-5 md:px-20 justify-center h-screen
+      className="bg-home-tablet xl:bg-home-desktop flex flex-col md:bg-cover px-5 md:px-20 justify-center h-screen
      bg-black text-white pt-20 items-center bg-no-repeat gap-20"
     >
       <div className="flex px-2  flex-col items-center gap-4 md:gap-2">
